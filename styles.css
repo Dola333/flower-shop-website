@@ -1,0 +1,240 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: "Lato", sans-serif;
+    
+}
+/* header styles */
+.header-info {
+    background: #e554731e;
+    width:1600px;
+    height: 800px;
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    margin-bottom: 65px;
+}
+
+.header-title {
+         
+            color:#181818;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 80px;
+            padding-top: 228px;
+            padding-left: 208px;
+}
+
+.header-description {
+    color:#272727da;
+    padding-left: 204px;
+    margin-top: 30px;
+    
+}
+
+.button-primary {
+    background: #E55473;
+    color:white;
+    width:164px;
+    height:60px;
+    border: 2px solid #E55473;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+/* main styles */
+
+.featured-title {
+    color: #272727;
+    text-align: center;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+.featured-description {
+       color:#272727b9;
+       text-align: center;
+       margin-top: 30px;
+       margin-bottom: 30px;
+       font-size: 18px;
+}
+
+
+section {
+    width:1600px;
+    height: 850px;
+    
+}
+
+.featured-image {
+    display: flex;
+    justify-content:space-around;
+    gap: 5px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.image-description {
+    color:#272727;
+    text-decoration: underline;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 160px;
+
+}
+
+.delivery-info {
+    background: #27272710;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border: 5px;
+    margin-bottom: 90px;
+
+
+}
+
+.delivery {
+    padding: 30px;
+}
+ .delivery-description {
+    
+    color:#272727b0;
+    
+    padding: 20px;
+ }
+
+ .delivery > img {
+    margin-left: 70px;
+ }
+
+
+
+
+ .sale-info {
+    background: #e554731e;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    gap:10px;
+    margin-bottom: 30px;
+    padding-right: 100px;
+
+ }
+
+ .sale-title {
+    color:#272727;
+    font-weight: 900;
+    font-size: 40px;
+    padding-top: 100px;
+    margin-left: 127px;
+ }
+
+ .off {
+    color:#E55473;
+    
+ }
+ .sale-description {
+    color:#272727b0;
+    margin-left: 70px;
+    margin-top:25px;
+    text-align: center;
+ }
+
+ .btn-primary {
+    background:#E55473;
+    color:white;
+    width: 160px;
+    height:60px;
+    border: 2px solid #E55473;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 75px;
+    
+ }
+
+ .instagram-info {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+ }
+
+ .deals-info {
+    background-image: url(Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 180px;
+    padding-top: 100px;
+
+  
+ }
+
+ .deals-header {
+    text-align: center;
+    padding-top: 48px;
+    color:#272727;
+    font-weight: 900;
+    font-size: 40px;
+ }
+
+ .deals-description {
+    text-align: center;
+    color:#272727b0;
+    font-size: 18px;
+    margin-top: 25px;
+ }
+ 
+.deals-form {
+    margin-left: 400px;
+}
+
+label> input {
+               width:650px;
+               border:2px solid white;
+               height: 6vh;
+               padding: 5px;
+               border-radius: 5px;
+               margin-top: 30px;
+}
+
+
+/* footer styles */
+
+
+
+.footer-info {
+    background-color: #111010;
+    color:white;
+}
+
+.footer-title {
+    text-align: center;
+    font-weight: 900;
+    font-size: 48px;
+    padding-top: 300px;
+}
+.footer-description {
+    color:#FFFFFF;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.footer-copywright {
+    text-align: center;
+    margin-top: 30px;
+    color:#ffffff54;
+    padding-bottom: 400px;
+}
